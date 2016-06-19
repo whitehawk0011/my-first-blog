@@ -1,3 +1,4 @@
+# this file ignores these contents
 *.pyc
 __pycache__
 myvenv
